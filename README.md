@@ -25,4 +25,4 @@ GaussianR
 
 Process flow
 
-![Code-Deep-Active](https://github.com/user-attachments/assets/7666ecba-723c-4483-bac7-a567e7fe78fb)
+![Code-Deep-Active](https://github.com/user-attachments/assets/9a26c95a-c221-49a4-ae26-943a9440764f)
